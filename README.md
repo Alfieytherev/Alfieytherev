@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alfieytherev
 - 👀 I’m interested in blockchain game
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
